@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: hsl(180deg 72% 24% / 24%);
+  font-family: 'Roboto';
+}
