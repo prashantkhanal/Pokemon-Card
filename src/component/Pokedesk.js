@@ -12,7 +12,7 @@ class Pokedesk extends Component {
       { id: 500, _name: 'Bishal', type: 'Posion', exp: 90 },
       { id: 600, _name: 'Anish', type: 'Thunder', exp: 100 },
       { id: 700, _name: 'Dikpal', type: 'Wind', exp: 110 },
-      { id: 800, _name: 'Anish', type: 'Neuclear', exp: 120 },
+      { id: 800, _name: 'Anil', type: 'Neuclear', exp: 120 },
     ],
   };
   render() {
